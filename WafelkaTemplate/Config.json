@@ -1,0 +1,45 @@
+﻿{
+  "telegramBotToken": "Telegram bot token",
+  "credentialsPath": "googleCreditionals.json",
+  "spreadsheetId": "Spreadsheet id",
+
+  "paymentsListName": "Оплаты",
+  "summaryListName": "Сводная",
+
+  "orderStatus": "Заказ",
+  "paidStatus": "Оплата",
+
+  "emptyData": "Не указано",
+  "atSign": "@",
+  "hashtag": "#",
+  "hashtagRequest": "#заявка_",
+  "hashtagPayment": "#оплата",
+  "hashtagPaid": "#оплачено",
+  "hashtagFeedback": "#отзыв",
+  "hashtagRejection": "#отказ",
+  "wafelkaCall": "Вафелька!",
+
+  "responsesToCallWafelka": [
+    "Жду команду🧇"
+  ],
+  "responsesToRequest": [
+    "Записал заявку✅"
+  ],
+  "responsesToPayment": [
+    "Записал оплату✅"
+  ],
+  "responsesToPaid": [
+    "Поменял статус✅"
+  ],
+  "responsesToFeedback": [
+    "Записал отзыв✅"
+  ],
+  "responsesToRejection": [
+    "Удалил заявку✅"
+  ],
+  "responseToIncorrectAnswer": "❗️❗️❗️#оплата, #отзыв, #оплачено и #отказ должны быть ответом на существующую #заявка❗️❗️❗️",
+  "responseToEmptyAnswer": "❗️❗️❗️#оплата, #отзыв, #оплачено и #отказ должны быть ответом на #заявка❗️❗️❗️",
+  "responseToAnswerToPhoto": "❗️❗️❗️#оплата, #отзыв, #оплачено и #отказ должны быть ответом на #заявка, а не на фотографию❗️❗️❗️",
+  "responseToWrongHashtag": "❗️❗️❗️Неверный хештег❗️❗️❗️",
+  "responseToNotFoundList": "❗️❗️❗️Нет товара с таким названием❗️❗️❗️"
+}
