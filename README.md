@@ -99,5 +99,5 @@ https://instagram.com/ivan
 ### Для работы бота понадобяться ещё некоторые данные:
 - **Telegram bot token**
 - **Google creditionals (В формате json)**
-- **Id таблицы с данными**
+- **Id таблицы для данных**
 ---
